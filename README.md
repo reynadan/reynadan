@@ -1,6 +1,6 @@
 <h2> Hi, I'm Daniel! <img src="https://pic.funnygifsbox.com/uploads/2020/10/funnygifsbox.com-2020-10-28-07-40-32-39.gif" width="50"></h2>
 
-<img align='right' src="https://avataaars.io/?avatarStyle=Circle&topType=NoHair&accessoriesType=Blank&facialHairType=BeardLight&facialHairColor=BrownDark&clotheType=GraphicShirt&clotheColor=Heather&graphicType=Deer&eyeType=Happy&eyebrowType=DefaultNatural&mouthType=Default&skinColor=Pale" width="230">
+<img align='right' src="https://unavatar.io/twitter/grimtyr" width="230">
 
 [![Linkedin: daniel](https://img.shields.io/badge/-daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reynadan/)](https://www.linkedin.com/in/reynadan/)
 
