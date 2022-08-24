@@ -24,6 +24,7 @@ class Daniel
 
     /**
      * @see https://en.wikipedia.org/wiki/Scrum_(software_development)
+     * @see https://ocramius.github.io/extremely-defensive-php/#/
      */
     const PROCESS = 'scrum';
 }
@@ -31,5 +32,16 @@ class Daniel
   <img src="https://pic.funnygifsbox.com/uploads/2020/10/funnygifsbox.com-2020-10-28-07-40-29-77.gif" width="60">
   I love to meet new people and learn things :) if you want to talk about anything, reach me at reynauddaniel26[at]gmail[dot]com
   
+  https://dev.to/adevnadia/react-re-renders-guide-preventing-unnecessary-re-renders-21dm
   
   <h6 align='right'> Design inspired by <a href='https://github.com/Thaiane/Thaiane'>Thai</a></h5>
+  
+  ----
+  ### Interestings links 
+  - https://dev.to/adevnadia/react-re-renders-guide-preventing-unnecessary-re-renders-21dm
+  - https://refactoring.guru/fr/design-patterns
+  - https://dev.to/iarchitsharma/the-history-of-javascript-5e98
+  - https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html
+  - https://architecturenotes.co/things-you-should-know-about-databases/
+
+
