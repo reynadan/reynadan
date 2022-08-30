@@ -2,8 +2,8 @@
 
 <img align='right' src="https://unavatar.io/twitter/grimtyr" width="230">
 
-[![Linkedin: daniel](https://img.shields.io/badge/-daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reynadan/)](https://www.linkedin.com/in/reynadan/)
-
+[![Linkedin: daniel](https://img.shields.io/badge/-Add%20me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reynadan/)](https://www.linkedin.com/in/reynadan/)
+[![StackOverflow: daniel](https://img.shields.io/badge/-Watch%20me-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/5391965/reynadan)](https://stackoverflow.com/users/5391965/reynadan)
 
 <p>
   <em>
