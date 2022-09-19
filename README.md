@@ -1,4 +1,4 @@
-<h2> Hi, I'm Daniel! <img src="https://pic.funnygifsbox.com/uploads/2020/10/funnygifsbox.com-2020-10-28-07-40-32-39.gif" width="50"></h2>
+<h2> Hi, I'm Daniel!</h2>
 
 <img align='right' src="https://unavatar.io/twitter/grimtyr" width="230">
 
@@ -29,8 +29,7 @@ class Daniel
     const PROCESS = 'scrum';
 }
 ```
-  <img src="https://pic.funnygifsbox.com/uploads/2020/10/funnygifsbox.com-2020-10-28-07-40-29-77.gif" width="60">
-  I love to meet new people and learn things :) if you want to talk about anything, reach me at reynauddaniel26[at]gmail[dot]com
+Feel free to reach me at reynauddaniel26[at]gmail[dot]com
   
   
   <h6 align='right'> Design inspired by <a href='https://github.com/Thaiane/Thaiane'>Thai</a></h5>
