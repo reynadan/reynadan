@@ -4,7 +4,7 @@
 
 [![Linkedin: daniel](https://img.shields.io/badge/-Add%20me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reynadan/)](https://www.linkedin.com/in/reynadan/)
 [![StackOverflow: daniel](https://img.shields.io/badge/-Watch%20me-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/5391965/reynadan)](https://stackoverflow.com/users/5391965/reynadan)
-
+[![My portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuNWWFMmUAAAC6SURBVChTbZA9CsJAEEZnf7JYBRXBxgtoa2Fj4RlESGHpGew9gFa2wcbaI5hDWNjZCxYeQd9INkrMwOPNzH4smwhlrLUrY8wJtsx9XZbVKi1CaI1eEcJXnIDQH9FIex1uqAoq3vsp1rMDesBAhwJyDUTK3f1n3mFpO+dmcVnjye2TEMKC/lMZNAX1tgvuAC9PkrEu6xDaYA/fYnlG9eAe/1WPgwJXQf2/etBYPHzIx80JLSFL07QrIvIGjO41Vh/JBN0AAAAASUVORK5CYII=&link=https://reynadan.github.io)](https://reynadan.github.io)
 <p>
   <em>
     <img src="https://www.fundchannel-group.com/themes/custom/fund_channel/favicon.png" width="30">
