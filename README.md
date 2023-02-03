@@ -40,5 +40,5 @@ Feel free to reach me at reynauddaniel26[at]gmail[dot]com
   - https://dev.to/iarchitsharma/the-history-of-javascript-5e98
   - https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html
   - https://architecturenotes.co/things-you-should-know-about-databases/
-
+  - https://www.grottedubarbu.fr/introduction-docker-swarm/
 
