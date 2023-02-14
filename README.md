@@ -41,4 +41,5 @@ Feel free to reach me at reynauddaniel26[at]gmail[dot]com
   - https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html
   - https://architecturenotes.co/things-you-should-know-about-databases/
   - https://www.grottedubarbu.fr/introduction-docker-swarm/
+  - https://stackoverflow.blog/2023/02/13/coding-102-writing-code-other-people-can-read/?cb=1
 
