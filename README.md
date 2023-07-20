@@ -43,4 +43,5 @@ Feel free to reach me at reynauddaniel26[at]gmail[dot]com
   - https://www.grottedubarbu.fr/introduction-docker-swarm/
   - https://stackoverflow.blog/2023/02/13/coding-102-writing-code-other-people-can-read/?cb=1
   - https://roadmap.sh/
+  - https://www.patterns.dev/
 
