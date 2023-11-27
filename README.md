@@ -43,4 +43,4 @@ Feel free to reach me at reynauddaniel26[at]gmail[dot]com
   - https://roadmap.sh/
   - https://www.patterns.dev/
   - https://catskull.net/html.html 
-
+  - https://slidr.io/derrabus/hello-symfony-7
