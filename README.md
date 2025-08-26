@@ -12,25 +12,6 @@
       Studied in the mountains of <a href="https://www.univ-grenoble-alpes.fr/">Grenoble</a>
    </em>
 </p>
-
-###  About me
-```php
-class Daniel
-{
-    const LANGAGES = ['PHP', 'Symfony', 'HTML/CSS', 'JS', 'Mysql'];
-    const TOOLS = ['Docker', 'PHPStorm', 'Yarn', 'Sass'];
-
-    /**
-     * @see https://en.wikipedia.org/wiki/Scrum_(software_development)
-     * @see https://ocramius.github.io/extremely-defensive-php/#/
-     */
-    const PROCESS = 'scrum';
-}
-```
-Feel free to reach me at reynauddaniel26[at]gmail[dot]com
-  
-  
-  <h6 align='right'> Design inspired by <a href='https://github.com/Thaiane/Thaiane'>Thai</a></h5>
   
   ----
   ### Interestings links 
